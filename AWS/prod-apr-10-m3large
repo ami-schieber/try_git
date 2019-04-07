@@ -1,0 +1,41 @@
+i-62c49684	skyromi.skyfencenet.com	10.1.1.100	52.17.126.187	running	ebs	m3.large	2015-04-16T08:29:18.000Z	Skyfence-V3	ami-395b3a4e	eu-west-1a	 Monitor=yes CreateDate=2015-04-16
+i-676b2d81	intuit.skyfencenet.com	10.1.1.100	52.16.119.136	running	ebs	m3.large	2015-11-05T08:44:39.000Z	Skyfence-V3	ami-3ea00449	eu-west-1a	 CreateDate=2015-04-01 Monitor=yes Production=yes
+i-2fe5476d	ADFS-2.0-Server (veridinet)	10.1.1.239	54.72.231.105	running	ebs	m3.large	2015-03-18T15:11:12.000Z	Skyfence-V3	ami-458b4b32	eu-west-1a	 Monitor=No
+i-bf890b59	gw1-homeaway-ireland	10.1.1.11	54.154.21.83	running	ebs	m3.large	2015-04-29T17:35:43.000Z	Skyfence-V3	ami-3ea00449	eu-west-1a	 CreateDate=2015-02-13 Production=yes Gw=UNKNOWN Monitor=gw-yes
+i-aa754500	skyromi-okta-test	10.1.1.132	52.18.12.140	running	ebs	m3.large	2015-07-01T07:35:46.000Z	Skyfence-V3	ami-63671914	eu-west-1c	
+i-35494ed3	skyush.skyfencenet.com	10.1.1.100	52.17.186.215	running	ebs	m3.large	2015-05-13T13:21:43.000Z	Skyfence-V3	ami-395b3a4e	eu-west-1a	 CreateDate=2015-05-13 Monitor=no
+i-81fa7b65	gw2-homeaway-ireland	10.1.2.12	54.76.200.115	running	ebs	m3.large	2015-04-30T14:29:12.000Z	Skyfence-V3	ami-3ea00449	eu-west-1b	 Gw=UNKNOWN Production=yes Monitor=gw-yes CreateDate=2015-02-13
+i-2490ffc3	Veridinet-ADFS-proxy	172.31.47.240	52.16.221.9	running	ebs	m3.large	2015-03-16T20:50:19.000Z	Skyfence-V3	ami-e7ac2790	eu-west-1c	
+i-9f97e379	Veridinet-ADFS-2nd	10.1.1.100	52.16.32.251	running	ebs	m3.large	2015-03-18T15:50:27.000Z	Skyfence-V3	ami-e7ac2790	eu-west-1a	
+i-8db0e66b	skyamper.skyfencenet.com	10.1.1.100	52.16.59.110	running	ebs	m3.large	2015-04-19T10:42:07.000Z	Skyfence-V3	ami-8bb4d3fc	eu-west-1a	 CreateDate=2015-04-13 Monitor=gw-yes
+i-4ee36fa8	agbar.skyfencenet.com	10.1.1.100	54.154.170.120	running	ebs	m3.large	2015-02-15T14:26:28.000Z	Skyfence-V3	ami-3ea00449	eu-west-1a	 CreateDate=2015-02-15 Monitor=yes Production=yes
+i-c91c732e	Windows Client ADFS	172.31.43.165	52.16.255.125	running	ebs	m3.large	2015-03-16T14:06:48.000Z	Skyfence-V3	ami-e7ac2790	eu-west-1c	
+i-48d43284	se-o365-sin1.com-proxy	10.1.1.143	52.74.220.35	running	ebs	m3.large	2015-07-29T09:08:05.000Z	Skyfence-V3	ami-b89093ea	ap-southeast-1b	
+i-eb1e6443	se-o365-nv1.com-DC	10.1.1.230	52.2.178.28	running	ebs	m3.large	2015-07-23T13:26:12.000Z	Skyfence-V3	ami-5b9e6b30	us-east-1b	
+i-3cc7bf94	se-o365-nv1.com-ADFS	10.1.1.48	52.3.98.153	running	ebs	m3.large	2015-07-23T10:02:33.000Z	Skyfence-V3	ami-5b9e6b30	us-east-1b	
+i-150eccbc	Skyokta-skyfence.skyokta.com	10.1.1.100	52.7.69.248	running	ebs	m3.large	2015-09-07T08:06:47.000Z	Skyfence-V3	ami-76bb831e	us-east-1b	 Monitor=no CreateDate=2015-05-31
+i-a9fbdd01	jennison.skyfencenet.com	10.1.1.100	52.6.77.249	running	ebs	m3.large	2015-07-28T12:22:28.000Z	Skyfence-V3	ami-b7c839dc	us-east-1b	 CreateDate=2015-07-28 Monitor=yes
+i-8ebad527	qmassociates.com	10.1.1.100	52.6.25.137	running	ebs	m3.large	2015-06-15T08:21:38.000Z	Skyfence-V3	ami-b7c839dc	us-east-1b	 CreateDate=2015-06-15 Monitor=yes
+i-992cfe52	gw2.imperva-california	10.1.2.100	52.8.1.189	running	ebs	m3.large	2015-05-04T10:08:11.000Z	Skyfence-V3	ami-99ba55dd	us-west-1c	 CreateDate=2015-05-04 Gw=4.1.2.11 Monitor=gw-yes Production=yes
+i-5b4bd098	teva-new.skyfencenet.com-Prod	10.1.1.100	54.67.22.26	running	ebs	m3.large	2015-01-20T07:10:33.000Z	Skyfence-V3	ami-932b22d6	us-west-1b	 Monitor=yes CreateDate=2015-01-15 Production=yes
+i-1e6258dc	se-o365-nc2.com-ADFS	10.1.1.141	54.153.48.14	running	ebs	m3.large	2015-07-29T13:24:38.000Z	Skyfence-V3	ami-3bee1c7f	us-west-1b	
+i-517f4b9b	skyfencenetworks.com	10.1.1.100	54.183.195.190	running	ebs	m3.large	2014-12-23T10:30:19.000Z	Skyfence-V3	ami-932b22d6	us-west-1b	 CreateDate=2014-12-23 Monitor=no
+i-1de6a8dd	Imperva-v4-5	10.1.2.76	52.8.136.77	running	ebs	m3.large	2015-12-21T10:23:10.000Z	Skyfence-V3	ami-395ea87d	us-west-1c	
+i-7f4282bd	ge-gehealthcare-mng	10.1.1.100	52.8.51.31	running	ebs	m3.large	2015-04-27T10:28:01.000Z	Skyfence-V3	ami-7fc4263b	us-west-1b	 CreateDate=2015-04-27 Monitor=yes
+i-a14dbf63	altera.skyfencenet.com	10.1.1.100	52.8.61.3	running	ebs	m3.large	2015-04-21T13:21:28.000Z	Skyfence-V3	ami-7fc4263b	us-west-1b	 Production=yes CreateDate=2015-04-20 Monitor=yes
+i-22cfbf90	oa2-my.skyfence.com	10.1.1.23	52.8.108.130	running	ebs	m3.large	2015-12-06T11:12:52.000Z	Skyfence-V3	ami-75827631	us-west-1b	 CreateDate=2015-11-15 Monitor=cloud-yes
+i-c273f600	verisk.skyfencenet.com	10.1.1.100	50.18.221.197	running	ebs	m3.large	2015-05-28T17:09:48.000Z	Skyfence-V3	ami-7fc4263b	us-west-1b	 Monitor=no Production=old CreateDate=2015-05-28
+i-7a7372c8	oa3-my.skyfence.com	10.1.1.79	52.8.38.124	running	ebs	m3.large	2016-01-13T13:35:48.000Z	Skyfence-V3	ami-dedeabbe	us-west-1b	 CreateDate=2016-01-13 Monitor=cloud-yes
+i-9e4eb45d	oa4-my.skyfence.com	10.1.2.193	52.9.86.40	running	ebs	m3.large	2016-01-13T13:37:35.000Z	Skyfence-V3	ami-dedeabbe	us-west-1c	 CreateDate=2016-01-13 Monitor=cloud-yes
+i-739cdbb0	imperva-california	10.1.1.100	54.67.107.74	running	ebs	m3.large	2015-02-08T12:37:18.000Z	Skyfence-V3	ami-932b22d6	us-west-1b	 CreateDate=2015-02-08 Monitor=yes Production=yes
+i-52f99991	rpx.skyfencenet.com	10.1.1.100	52.8.101.209	running	ebs	m3.large	2015-01-22T09:35:31.000Z	Skyfence-V3	ami-932b22d6	us-west-1b	 Monitor=yes Production=yes CreateDate=2015-01-20
+i-36a7e0f5	gw1.imperva-california	10.1.1.11	54.67.21.195	running	ebs	m3.large	2015-02-08T12:53:45.000Z	Skyfence-V3	ami-932b22d6	us-west-1b	 CreateDate=2015-02-08 Gw=4.1.2.11 Production=yes Monitor=gw-yes
+i-1240d9d0	dish.skyfencenet.com	10.1.1.100	52.8.86.128	running	ebs	m3.large	2015-06-11T03:17:32.000Z	Skyfence-V3	ami-7fc4263b	us-west-1b	 CreateDate=2015-06-11 Monitor=yes
+i-dea0a614	logitech-california-idp.skyfencenet.com	10.1.1.100	50.18.214.207	running	ebs	m3.large	2015-08-31T16:34:45.000Z	Skyfence-V3	ami-932b22d6	us-west-1b	 Monitor=yes CreateDate=2015-01-06 Production=yes
+i-66fdf2a6	oa1-my.skyfence.com	10.1.2.22	52.8.82.168	running	ebs	m3.large	2015-12-06T11:12:42.000Z	Skyfence-V3	ami-75827631	us-west-1c	 Monitor=cloud-yes CreateDate=2015-11-15
+i-9690a954	se-o365-nc1.com-ADFS	10.1.1.46	52.8.150.226	running	ebs	m3.large	2015-07-28T11:37:54.000Z	Skyfence-V3	ami-3bee1c7f	us-west-1b	
+i-cc13c9c1	gw3-homeaway-oregon	10.1.2.210	52.11.109.191	running	ebs	m3.large	2015-03-25T19:02:51.000Z	Skyfence-V3	ami-8dba95bd	us-west-2b	 CreateDate=2015-03-25 Production=yes Monitor=gw-yes Gw=UNKNOWN
+i-04b79408	gw2-homeaway-oregon	10.1.1.11	54.218.1.151	running	ebs	m3.large	2015-04-30T10:45:59.000Z	Skyfence-V3	ami-dbd594eb	us-west-2a	 CreateDate=2015-02-13 Monitor=gw-yes Gw=UNKNOWN Production=yes
+i-b8b72a70	se-o365-or1.com-DC	10.1.1.92	52.24.1.87	running	ebs	m3.large	2015-07-29T07:02:19.000Z	Skyfence-V3	ami-c3b3b1f3	us-west-2c	
+i-8aa3c77c	gw4-homeaway-oregon	10.1.1.11	54.68.169.39	running	ebs	m3.large	2015-04-29T16:59:31.000Z	Skyfence-V3	ami-953c16a5	us-west-2a	 Gw=UNKNOWN Production=yes CreateDate=2015-04-29 Monitor=gw-yes
+i-bb5c75b7	agbar-gw2.skyfencenet.com	10.1.1.11	52.10.56.124	running	ebs	m3.large	2015-02-16T10:31:36.000Z	Skyfence-V3	ami-dbd594eb	us-west-2a	 Production=yes Monitor=gw-yes Gw=4.1.2.7 CreateDate=2015-02-16

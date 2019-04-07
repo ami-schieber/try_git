@@ -1,0 +1,6 @@
+i-c4bf1605	Grafana	172.31.6.108	52.28.94.200	running	ebs	m3.xlarge	2016-04-02T12:30:42.000Z	Frankfurt	ami-56cdff4b	eu-central-1b	 Monitor=system CreateDate=2015-03-30
+i-49507b8b	nam1-my.skyfence.com	10.1.1.13	52.8.247.222	running	ebs	m3.xlarge	2016-03-03T11:26:52.000Z	Skyfence-V3	ami-75827631	us-west-1b	 Monitor=cloud-yes CreateDate=2015-07-21
+i-72eda8b9	nam2-my.skyfence.com	10.1.2.14	54.67.90.150	running	ebs	m3.xlarge	2016-03-03T11:41:07.000Z	Skyfence-V3	ami-75827631	us-west-1c	 Monitor=cloud-yes CreateDate=2015-07-21
+i-9bae8d97	homeaway-oregon	10.1.1.100	54.201.147.91	running	ebs	m3.xlarge	2015-07-05T08:38:40.000Z	Skyfence-V3	ami-dbd594eb	us-west-2a	 Production=yes Monitor=yes CreateDate=2015-07-05
+i-6c54eb9a	marketlive.skyfencenet.com	10.1.1.100	52.10.101.103	running	ebs	m3.xlarge	2015-04-15T18:56:07.000Z	Skyfence-V3	ami-dbd594eb	us-west-2a	 Production=yes Monitor=yes CreateDate=2015-04-08
+i-d44b901d	seagate.skyfencenet.com	10.1.1.100	52.25.92.211	running	ebs	m3.xlarge	2015-08-05T08:30:35.000Z	Skyfence-V3	ami-dd9ea5ed	us-west-2a	 Monitor=yes CreateDate=2015-07-29

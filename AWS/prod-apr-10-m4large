@@ -1,0 +1,7 @@
+i-a68f4f0a	nagios-omd.skyfence.com	172.31.25.191	54.77.138.135	running	ebs	m4.large	2015-09-06T09:42:33.000Z	Skyfence-V3	ami-30ff5c47	eu-west-1b	
+i-8615f12a	Operations2	172.31.29.184	52.18.65.165	running	ebs	m4.large	2015-08-19T01:33:19.000Z	Skyfence-V3	ami-a10897d6	eu-west-1b	 has_java=yes CreateDate=2014-04-27 Monitor=system
+i-794b94c4	mongoops-fr.skyfencenet.com	172.31.18.217	52.58.44.193	running	ebs	m4.large	2016-03-10T13:13:09.000Z	Skyfence-V3	ami-403f232c	eu-central-1a	
+i-c457ec76	logz.skyfence.com	10.188.20.69	52.8.50.86	running	ebs	m4.large	2015-10-15T06:50:07.000Z	Skyfence-V3	ami-1bad6d5f	us-west-1b	 CreateDate=2015-10-14 Monitor=no
+i-56e541e3	graphite1-nc.skyfencenet.com	10.188.20.35	52.8.46.165	running	ebs	m4.large	2016-04-07T09:52:19.000Z	Skyfence-V3	ami-15385375	us-west-1b	 Monitor=no CreateDate=2016-04-07 Envtype=system
+i-ad988d1f	tm1-my.skyfence.com	10.1.1.72	52.9.80.201	running	ebs	m4.large	2016-01-24T12:32:38.000Z	Skyfence-V3	ami-15385375	us-west-1b	 CreateDate=2016-01-24 Monitor=cloud-yes
+i-18d915db	tm2-my.skyfence.com	10.1.2.144	52.9.86.157	running	ebs	m4.large	2016-01-24T12:34:11.000Z	Skyfence-V3	ami-15385375	us-west-1c	 CreateDate=2016-01-24 Monitor=cloud-yes
